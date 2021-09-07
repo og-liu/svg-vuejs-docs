@@ -8,8 +8,7 @@
 
 * [快速开始](/dosc)
 * [属性](/attributes)
-* [字体图标 1](/icon1)
-* [字体图标 2](/icon2)
+* [字体图标](/iconfont)
 
 [comment]: <> (<h3>场景演示</h3>)
 
