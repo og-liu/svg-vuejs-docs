@@ -5,13 +5,59 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4cebc847-41ec-4ba2-a2ab-6e1eea99fa27" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/icon2.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconfont/default/lock.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconfont/hover/lock.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconfont/source/lock.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iconfont/default/atom.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iconfont/default/calculator.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iconfont/default/calendar-check.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iconfont/default/database.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iconfont/default/floor.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iconfont/default/hockey.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iconfont/default/house.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iconfont/default/medical.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iconfont/default/palette.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iconfont/default/sort-down.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iconfont/default/swimmer.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iconfont/default/tags.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iconfont/default/truck-moving.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iconfont/default/upload.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iconfont/default/user-clock.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iconfont/default/weight.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iconfont/default/yen-show.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iconfont/hover/atom.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iconfont/hover/calculator.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iconfont/hover/calendar-check.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iconfont/hover/database.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iconfont/hover/floor.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iconfont/hover/hockey.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iconfont/hover/house.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iconfont/hover/medical.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iconfont/hover/palette.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iconfont/hover/sort-down.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iconfont/hover/swimmer.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iconfont/hover/tags.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iconfont/hover/truck-moving.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iconfont/hover/upload.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iconfont/hover/user-clock.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iconfont/hover/weight.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iconfont/hover/yen-show.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iconfont/source/atom.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iconfont/source/calculator.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iconfont/source/calendar-check.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iconfont/source/database.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iconfont/source/floor.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iconfont/source/hockey.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iconfont/source/house.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iconfont/source/medical.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iconfont/source/palette.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iconfont/source/sort-down.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iconfont/source/swimmer.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iconfont/source/tags.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iconfont/source/truck-moving.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iconfont/source/upload.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iconfont/source/user-clock.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iconfont/source/weight.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iconfont/source/yen-show.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sidebar.md" beforeDir="false" afterPath="$PROJECT_DIR$/_sidebar.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/icon.md" beforeDir="false" afterPath="$PROJECT_DIR$/icon1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icon1.md" beforeDir="false" afterPath="$PROJECT_DIR$/icon1.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +83,9 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="1nN46hVSeByfBCqk261ObWSL8Sg" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -46,16 +94,16 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/iconfont/source" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/iconfont/source" />
       <recent name="$PROJECT_DIR$/iconfont/hover" />
       <recent name="$PROJECT_DIR$/iconfont/default" />
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/iconfont/demo" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -83,7 +131,7 @@
       <workItem from="1617354785802" duration="451000" />
       <workItem from="1630909645265" duration="10892000" />
       <workItem from="1630923762710" duration="96000" />
-      <workItem from="1630975197519" duration="2924000" />
+      <workItem from="1630975197519" duration="8872000" />
     </task>
     <servers />
   </component>
