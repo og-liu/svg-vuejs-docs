@@ -7,7 +7,7 @@
 </p>
 
 ```Shell
-$ npm install svg-vuejs
+$ npm install default-vuejs
 ```
 
 ## 在项目中引入并使用 vueSvg 组件
@@ -18,7 +18,7 @@ $ npm install svg-vuejs
 // 当前位置 main.js
 
 import Vue from 'vue';
-import vueSvg from 'svg-vuejs'
+import vueSvg from 'default-vuejs'
 import App from './App.vue';
 
 Vue.use(vueSvg);
@@ -70,6 +70,6 @@ new Vue({
 ```vue
 <!-- 当前位置 *.vue -->
 
-<!-- 将会在 src 文件夹中 的 svg 文件夹里，寻找到名为 icon 的文件夹，渲染文件名为 wechat.svg 的图片 -->
+<!-- 将会在 src 文件夹中 的 default 文件夹里，寻找到名为 icon 的文件夹，渲染文件名为 wechat.default 的图片 -->
 <vue-svg name="wechat" path="icon/"></vue-svg>
 ```
