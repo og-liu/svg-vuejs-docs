@@ -2,7 +2,7 @@
     <li>
         <div class="icon tachometer"></div>
         <div class="icon-name">svg-tachometer</div>
-        <div class="icon-name">数据 转速表</div>
+        <div class="icon-name">数据 转速表SHG</div>
     </li>
 </ul>
 
