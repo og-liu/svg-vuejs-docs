@@ -70,6 +70,11 @@
         <div class="icon-name">系统 齿轮</div>
     </li>
     <li>
+        <div class="icon lock"></div>
+        <div class="icon-name">svg-lock</div>
+        <div class="icon-name">商城 锁</div>
+    </li>
+    <li>
         <div class="icon phone"></div>
         <div class="icon-name">svg-phone</div>
         <div class="icon-name">手机</div>
@@ -218,6 +223,14 @@ img { display: block; }
 }
 .icon-list li:hover .cogs {
     background-image: url("iconfont/hover/cogs.svg");
+}
+/* 商城 */
+.lock {
+    background: url("iconfont/default/lock.svg");
+    
+}
+.icon-list li:hover .lock {
+    background-image: url("iconfont/hover/lock.svg");
 }
 /* 手机 */
 .phone {

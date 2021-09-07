@@ -1,39 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="4cebc847-41ec-4ba2-a2ab-6e1eea99fa27" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/icon.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconfont/default/calendar.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconfont/default/coins.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconfont/default/desktop.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconfont/default/phone.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconfont/default/product.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconfont/default/store.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconfont/default/tachometer.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconfont/default/trade.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconfont/default/user-tie.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconfont/hover/calendar.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconfont/hover/coins.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconfont/hover/desktop.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconfont/hover/phone.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconfont/hover/product.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconfont/hover/store.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconfont/hover/tachometer.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconfont/hover/trade.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconfont/hover/user-tie.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconfont/source/calendar.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconfont/source/coins.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconfont/source/desktop.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconfont/source/phone.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconfont/source/product.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconfont/source/store.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconfont/source/tachometer.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconfont/source/trade.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconfont/source/user-tie.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iconfont/default/lock.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iconfont/hover/lock.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iconfont/source/lock.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_sidebar.md" beforeDir="false" afterPath="$PROJECT_DIR$/_sidebar.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/attributes.md" beforeDir="false" afterPath="$PROJECT_DIR$/attributes.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dosc.md" beforeDir="false" afterPath="$PROJECT_DIR$/dosc.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icon.md" beforeDir="false" afterPath="$PROJECT_DIR$/icon1.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,17 +46,17 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/iconfont/source" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/iconfont/source" />
       <recent name="$PROJECT_DIR$/iconfont/hover" />
       <recent name="$PROJECT_DIR$/iconfont/default" />
       <recent name="$PROJECT_DIR$/iconfont/demo" />
-      <recent name="$PROJECT_DIR$/svg" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/iconfont/hover" />
@@ -105,7 +83,7 @@
       <workItem from="1617354785802" duration="451000" />
       <workItem from="1630909645265" duration="10892000" />
       <workItem from="1630923762710" duration="96000" />
-      <workItem from="1630975197519" duration="1635000" />
+      <workItem from="1630975197519" duration="2924000" />
     </task>
     <servers />
   </component>
