@@ -8,20 +8,23 @@
 
 * [快速开始](/dosc)
 * [属性](/attributes)
+
+<h3>资源提供</h3>  
+
 * [字体图标](/iconfont)
-
-[comment]: <> (<h3>场景演示</h3>)
-
-[comment]: <> (* [字体图标]&#40;/dosc&#41;)
-
-[comment]: <> (* [插画]&#40;/dosc&#41;)
+* [插画](/cg)
 
 <h3>版本</h3>
 
-* [更新日志 v3.0.0](/changelog)
+* [更新日志 v3.0.0](/changelog-v3.1.3.md)
+* [更新日志 v4.0.0](/changelog-v4.0.0.md)
 
 <h3>代码</h3>
 
 * [Github](https://github.com/og-liu/svg-vuejs)
+
+<h3>贡献</h3>
+
+* [李玉芳](https://github.com/lyfdj)
 
 </div>

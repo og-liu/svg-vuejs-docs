@@ -5,36 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4cebc847-41ec-4ba2-a2ab-6e1eea99fa27" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/cg.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/changelog-v4.0.0.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_sidebar.md" beforeDir="false" afterPath="$PROJECT_DIR$/_sidebar.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/icon1.md" beforeDir="false" afterPath="$PROJECT_DIR$/iconfont.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/icon2.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iconfont/default/box.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iconfont/default/building.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iconfont/default/cg.svg" beforeDir="false" afterPath="$PROJECT_DIR$/iconfont/default/cg.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iconfont/default/disuse.svg" beforeDir="false" afterPath="$PROJECT_DIR$/iconfont/default/disuse.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iconfont/default/empty.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iconfont/default/home.svg" beforeDir="false" afterPath="$PROJECT_DIR$/iconfont/default/home.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iconfont/default/order.svg" beforeDir="false" afterPath="$PROJECT_DIR$/iconfont/default/order.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iconfont/default/succeed.svg" beforeDir="false" afterPath="$PROJECT_DIR$/iconfont/default/succeed.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iconfont/default/supplier.svg" beforeDir="false" afterPath="$PROJECT_DIR$/iconfont/default/supplier.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iconfont/default/userInfo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iconfont/default/wallet.svg" beforeDir="false" afterPath="$PROJECT_DIR$/iconfont/default/wallet.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iconfont/default/yen-show.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iconfont/hover/box.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iconfont/hover/building.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iconfont/hover/cg.svg" beforeDir="false" afterPath="$PROJECT_DIR$/iconfont/hover/cg.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iconfont/hover/disuse.svg" beforeDir="false" afterPath="$PROJECT_DIR$/iconfont/hover/disuse.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iconfont/hover/empty.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iconfont/hover/home.svg" beforeDir="false" afterPath="$PROJECT_DIR$/iconfont/hover/home.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iconfont/hover/order.svg" beforeDir="false" afterPath="$PROJECT_DIR$/iconfont/hover/order.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iconfont/hover/userInfo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iconfont/hover/yen-show.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iconfont/source/box.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iconfont/source/building.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iconfont/source/empty.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iconfont/source/userInfo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iconfont/source/yen-show.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/changelog.md" beforeDir="false" afterPath="$PROJECT_DIR$/changelog-v3.1.3.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,19 +46,20 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/iconfont/source" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/iconfont/source" />
       <recent name="$PROJECT_DIR$/iconfont/hover" />
       <recent name="$PROJECT_DIR$/iconfont/default" />
-      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/iconfont/demo" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/iconfont/hover" />
       <recent name="$PROJECT_DIR$/iconfont" />
     </key>
@@ -108,7 +84,7 @@
       <workItem from="1617354785802" duration="451000" />
       <workItem from="1630909645265" duration="10892000" />
       <workItem from="1630923762710" duration="96000" />
-      <workItem from="1630975197519" duration="12120000" />
+      <workItem from="1630975197519" duration="13044000" />
     </task>
     <servers />
   </component>
