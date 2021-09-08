@@ -1,12 +1,8 @@
-## 示例
-
 > 插件默认提供了一套常用的图标集合，复制图标的 name 即可直接使用，图标下方汉字描述可用于快速搜索。
 
 ```vue
 <vue-svg name="tachometer" color="#42b983"></vue-svg>
 ```
-
-## 常用字体图标集合
 
 <ul class="icon-list">
     <li>
