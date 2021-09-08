@@ -22,3 +22,24 @@
 <!-- 将会在 src 文件夹中 的 default 文件夹里，寻找到名为 icon 的文件夹，渲染文件名为 wechat.default 的图片 -->
 <vue-svg name="wechat" path="icon/"></vue-svg>
 ```
+
+## type
+
+- 可选
+- 类型: String
+- 描述: 类型，单色图标、多色图标、插画
+
+## color
+- 可选
+- 类型: String
+- 描述: 插画、多色图标无法使用 color 属性来控制颜色
+
+## width
+- 可选
+- 类型: Number
+- 描述: 单色图标、多色图标默认宽度为 20px
+
+## height
+- 可选
+- 类型: String
+- 描述: 单色图标、多色图标默认高度为 20px

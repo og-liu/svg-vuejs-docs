@@ -3,7 +3,7 @@
 > 插件默认提供了一套常用的图标集合，复制图标的 name 即可直接使用，图标下方汉字描述可用于快速搜索。
 
 ```vue
-<vue-svg name="svg-tachometer" color="#42b983"></vue-svg>
+<vue-svg name="tachometer" color="#42b983"></vue-svg>
 ```
 
 ## 常用字体图标集合
@@ -11,272 +11,272 @@
 <ul class="icon-list">
     <li>
         <div class="icon tachometer"></div>
-        <div class="icon-name">svg-tachometer</div>
+        <div class="icon-name">tachometer</div>
         <div class="icon-name">数据 转速表</div>
     </li>
     <li>
         <div class="icon trade"></div>
-        <div class="icon-name">svg-trade</div>
+        <div class="icon-name">trade</div>
         <div class="icon-name">订单 交易</div>
     </li>
     <li>
         <div class="icon product"></div>
-        <div class="icon-name">svg-product</div>
+        <div class="icon-name">product</div>
         <div class="icon-name">产品 层叠</div>
     </li>
     <li>
         <div class="icon calendar"></div>
-        <div class="icon-name">svg-calendar</div>
+        <div class="icon-name">calendar</div>
         <div class="icon-name">活动 日历</div>
     </li>
     <li>
         <div class="icon calendar-check"></div>
-        <div class="icon-name">svg-calendar-check</div>
+        <div class="icon-name">calendar-check</div>
         <div class="icon-name">选中状态日历</div>
     </li>
     <li>
         <div class="icon database"></div>
-        <div class="icon-name">svg-database</div>
+        <div class="icon-name">database</div>
         <div class="icon-name">单个数据库</div>
     </li>
     <li>
         <div class="icon coins"></div>
-        <div class="icon-name">svg-coins</div>
+        <div class="icon-name">coins</div>
         <div class="icon-name">仓储 多个数据库</div>
     </li>
     <li>
         <div class="icon user-tie"></div>
-        <div class="icon-name">svg-user-tie</div>
+        <div class="icon-name">user-tie</div>
         <div class="icon-name">客户 用户</div>
     </li>
     <li>
         <div class="icon store"></div>
-        <div class="icon-name">svg-store</div>
+        <div class="icon-name">store</div>
         <div class="icon-name">商城 店铺</div>
     </li>
     <li>
         <div class="icon dollar"></div>
-        <div class="icon-name">svg-dollar</div>
+        <div class="icon-name">dollar</div>
         <div class="icon-name">财务 美元</div>
     </li>
     <li>
         <div class="icon users"></div>
-        <div class="icon-name">svg-users</div>
+        <div class="icon-name">users</div>
         <div class="icon-name">团队 群体</div>
     </li>
     <li>
         <div class="icon boxes"></div>
-        <div class="icon-name">svg-boxes</div>
+        <div class="icon-name">boxes</div>
         <div class="icon-name">联盟 盒子</div>
     </li>
     <li>
         <div class="icon cogs"></div>
-        <div class="icon-name">svg-cogs</div>
+        <div class="icon-name">cogs</div>
         <div class="icon-name">系统 齿轮</div>
     </li>
     <li>
         <div class="icon lock"></div>
-        <div class="icon-name">svg-lock</div>
+        <div class="icon-name">lock</div>
         <div class="icon-name">商城 锁</div>
     </li>
     <li>
         <div class="icon phone"></div>
-        <div class="icon-name">svg-phone</div>
+        <div class="icon-name">phone</div>
         <div class="icon-name">手机</div>
     </li>
     <li>
         <div class="icon desktop"></div>
-        <div class="icon-name">svg-desktop</div>
+        <div class="icon-name">desktop</div>
         <div class="icon-name">电脑</div>
     </li>
     <li>
         <div class="icon floor"></div>
-        <div class="icon-name">svg-floor</div>
+        <div class="icon-name">floor</div>
         <div class="icon-name">楼层</div>
     </li>
     <li>
         <div class="icon atom"></div>
-        <div class="icon-name">svg-atom</div>
+        <div class="icon-name">atom</div>
         <div class="icon-name">atom</div>
     </li>
     <li>
         <div class="icon calculator"></div>
-        <div class="icon-name">svg-calculator</div>
+        <div class="icon-name">calculator</div>
         <div class="icon-name">计算器</div>
     </li>
     <li>
         <div class="icon medical"></div>
-        <div class="icon-name">svg-medical</div>
+        <div class="icon-name">medical</div>
         <div class="icon-name">医疗</div>
     </li>
     <li>
         <div class="icon upload"></div>
-        <div class="icon-name">svg-upload</div>
+        <div class="icon-name">upload</div>
         <div class="icon-name">上传文件</div>
     </li>
     <li>
         <div class="icon hockey"></div>
-        <div class="icon-name">svg-hockey</div>
+        <div class="icon-name">hockey</div>
         <div class="icon-name">曲棍球</div>
     </li>
     <li>
         <div class="icon palette"></div>
-        <div class="icon-name">svg-palette</div>
+        <div class="icon-name">palette</div>
         <div class="icon-name">调色板</div>
     </li>
     <li>
         <div class="icon sort-down"></div>
-        <div class="icon-name">svg-sort-down</div>
+        <div class="icon-name">sort-down</div>
         <div class="icon-name">排序 向下</div>
     </li>
     <li>
         <div class="icon swimmer"></div>
-        <div class="icon-name">svg-swimmer</div>
+        <div class="icon-name">swimmer</div>
         <div class="icon-name">游泳</div>
     </li>
     <li>
         <div class="icon tags"></div>
-        <div class="icon-name">svg-tags</div>
+        <div class="icon-name">tags</div>
         <div class="icon-name">标签</div>
     </li>
     <li>
         <div class="icon truck-moving"></div>
-        <div class="icon-name">svg-truck-moving</div>
+        <div class="icon-name">truck-moving</div>
         <div class="icon-name">货车 移动状态</div>
     </li>
     <li>
         <div class="icon user-clock"></div>
-        <div class="icon-name">svg-user-clock</div>
+        <div class="icon-name">user-clock</div>
         <div class="icon-name">人物 计时</div>
     </li>
     <li>
         <div class="icon house"></div>
-        <div class="icon-name">svg-house</div>
+        <div class="icon-name">house</div>
         <div class="icon-name">房子</div>
     </li>
     <li>
         <div class="icon weight"></div>
-        <div class="icon-name">svg-weight</div>
+        <div class="icon-name">weight</div>
         <div class="icon-name">体重秤</div>
     </li>
     <li>
         <div class="icon map"></div>
-        <div class="icon-name">svg-map</div>
+        <div class="icon-name">map</div>
         <div class="icon-name">地图</div>
     </li>
     <li>
         <div class="icon times"></div>
-        <div class="icon-name">svg-times</div>
+        <div class="icon-name">times</div>
         <div class="icon-name">乘以</div>
     </li>
     <li>
         <div class="icon trash"></div>
-        <div class="icon-name">svg-trash</div>
+        <div class="icon-name">trash</div>
         <div class="icon-name">垃圾</div>
     </li>
     <li>
         <div class="icon truck"></div>
-        <div class="icon-name">svg-truck</div>
+        <div class="icon-name">truck</div>
         <div class="icon-name">卡车</div>
     </li>
     <li>
         <div class="icon money"></div>
-        <div class="icon-name">svg-money</div>
+        <div class="icon-name">money</div>
         <div class="icon-name">人民币</div>
     </li>
     <li>
         <div class="icon tasks"></div>
-        <div class="icon-name">svg-tasks</div>
+        <div class="icon-name">tasks</div>
         <div class="icon-name">任务</div>
     </li>
     <li>
         <div class="icon password"></div>
-        <div class="icon-name">svg-password</div>
+        <div class="icon-name">password</div>
         <div class="icon-name">密码</div>
     </li>
     <li>
         <div class="icon cg"></div>
-        <div class="icon-name">svg-cg</div>
+        <div class="icon-name">cg</div>
         <div class="icon-name">购物车</div>
     </li>
     <li>
         <div class="icon delete"></div>
-        <div class="icon-name">svg-delete</div>
+        <div class="icon-name">delete</div>
         <div class="icon-name">删除</div>
     </li>
     <li>
         <div class="icon disuse"></div>
-        <div class="icon-name">svg-disuse</div>
+        <div class="icon-name">disuse</div>
         <div class="icon-name">停止使用</div>
     </li>
     <li>
         <div class="icon home"></div>
-        <div class="icon-name">svg-home</div>
+        <div class="icon-name">home</div>
         <div class="icon-name">首页</div>
     </li>
     <li>
         <div class="icon integral"></div>
-        <div class="icon-name">svg-integral</div>
+        <div class="icon-name">integral</div>
         <div class="icon-name">部分</div>
     </li>
     <li>
         <div class="icon order"></div>
-        <div class="icon-name">svg-order</div>
+        <div class="icon-name">order</div>
         <div class="icon-name">订单</div>
     </li>
     <li>
         <div class="icon price"></div>
-        <div class="icon-name">svg-price</div>
+        <div class="icon-name">price</div>
         <div class="icon-name">价格</div>
     </li>
     <li>
         <div class="icon return"></div>
-        <div class="icon-name">svg-return</div>
+        <div class="icon-name">return</div>
         <div class="icon-name">返回</div>
     </li>
     <li>
         <div class="icon rise"></div>
-        <div class="icon-name">svg-rise</div>
+        <div class="icon-name">rise</div>
         <div class="icon-name">向上</div>
     </li>
     <li>
         <div class="icon audit"></div>
-        <div class="icon-name">svg-audit</div>
+        <div class="icon-name">audit</div>
         <div class="icon-name">印章</div>
     </li>
     <li>
         <div class="icon stop"></div>
-        <div class="icon-name">svg-stop</div>
+        <div class="icon-name">stop</div>
         <div class="icon-name">停止</div>
     </li>
     <li>
         <div class="icon succeed"></div>
-        <div class="icon-name">svg-succeed</div>
+        <div class="icon-name">succeed</div>
         <div class="icon-name">成功</div>
     </li>
     <li>
         <div class="icon supplier"></div>
-        <div class="icon-name">svg-supplier</div>
+        <div class="icon-name">supplier</div>
         <div class="icon-name">供应商</div>
     </li>
     <li>
         <div class="icon user"></div>
-        <div class="icon-name">svg-user</div>
+        <div class="icon-name">user</div>
         <div class="icon-name">个人</div>
     </li>
     <li>
         <div class="icon wallet"></div>
-        <div class="icon-name">svg-wallet</div>
+        <div class="icon-name">wallet</div>
         <div class="icon-name">钱包</div>
     </li>
     <li>
         <div class="icon qq"></div>
-        <div class="icon-name">svg-qq</div>
+        <div class="icon-name">qq</div>
         <div class="icon-name">QQ</div>
     </li>
     <li>
         <div class="icon wx"></div>
-        <div class="icon-name">svg-wx</div>
+        <div class="icon-name">wx</div>
         <div class="icon-name">微信</div>
     </li>
 </ul>

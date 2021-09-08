@@ -16,15 +16,15 @@
 
 <h3>版本</h3>
 
-* [更新日志 v3.0.0](/changelog-v3.1.3.md)
 * [更新日志 v4.0.0](/changelog-v4.0.0.md)
+* [更新日志 v3.0.0](/changelog-v3.1.3.md)
 
 <h3>代码</h3>
 
-* [Github](https://github.com/og-liu/svg-vuejs)
+* [Github Repositorie](https://github.com/og-liu/svg-vuejs)
 
 <h3>贡献</h3>
 
-* [李玉芳](https://github.com/lyfdj)
+* 李玉芳
 
 </div>
