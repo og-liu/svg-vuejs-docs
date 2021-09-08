@@ -751,8 +751,8 @@ img { display: block; }
     cursor: pointer;
 }
 .icon {
-    width: 34px;
-    height: 34px;
+    width: 20px;
+    height: 20px;
     margin-bottom: 10px;
     background-repeat: no-repeat!important;
     background-size: 100% 100%!important;

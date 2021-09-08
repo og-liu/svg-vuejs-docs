@@ -4,7 +4,7 @@
 
 <p style="color: #5e6d82; font-size: 14px;">
 命令行进入项目根目录执行下面命令，安装最新稳定版，当然你也可以指定版本号安装对应
-    <a href="/#/changelog-v4.0.0">版本</a>
+    <a href="/#/changelog-v4.0.7">版本</a>
 </p>
 
 ```Shell

@@ -1,6 +1,6 @@
 ![logo](https://cdn.jsdelivr.net/gh/og-liu/image-host/20210113142632.png)
 
-# svg-vuejs <small>v3.1.3</small>
+# svg-vuejs <small>v4.0.7</small>
 
 > 一套为 Vuejs 开发者准备的基于 Vue 2.0 的 SVG 组件。
 
