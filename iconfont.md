@@ -750,6 +750,25 @@ img { display: block; }
     flex-direction: column;
     cursor: pointer;
 }
+
+@media screen and (max-width: 1600px) {
+    .icon-list li {
+        width: calc(100% / 6 + 1px);
+    }
+}
+
+@media screen and (max-width: 1300px) {
+    .icon-list li {
+        width: calc(100% / 5 + 1px);
+    }
+}
+
+@media screen and (max-width: 1100px) {
+    .icon-list li {
+        width: calc(100% / 4 + 1px);
+    }
+}
+
 .icon {
     width: 20px;
     height: 20px;

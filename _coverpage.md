@@ -1,4 +1,5 @@
 ![logo](https://cdn.jsdelivr.net/gh/og-liu/image-host/20210113142632.png)
+<style>.cover-main>p>img {width: 400px;}</style>
 
 # svg-vuejs <small>v4.0.8</small>
 
