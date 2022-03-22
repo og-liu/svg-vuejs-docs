@@ -16,6 +16,7 @@
 <h3>历史版本</h3>
 
 * [更新预告](/changelog-notice)
+* [更新日志 v4.1.0](/changelog-v4.1.0.md)
 * [更新日志 v4.0.8](/changelog-v4.0.8.md)
 * [更新日志 v4.0.7](/changelog-v4.0.7.md)
 * [更新日志 v3.1.3](/changelog-v3.1.3.md)

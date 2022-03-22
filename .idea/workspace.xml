@@ -5,12 +5,121 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4cebc847-41ec-4ba2-a2ab-6e1eea99fa27" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/changelog-v4.1.0.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_coverpage.md" beforeDir="false" afterPath="$PROJECT_DIR$/_coverpage.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sidebar.md" beforeDir="false" afterPath="$PROJECT_DIR$/_sidebar.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/changelog-v4.0.8.md" beforeDir="false" afterPath="$PROJECT_DIR$/changelog-v4.0.8.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dosc.md" beforeDir="false" afterPath="$PROJECT_DIR$/dosc.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/iconfont.md" beforeDir="false" afterPath="$PROJECT_DIR$/iconfont.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/default/atom.svg" beforeDir="false" afterPath="$PROJECT_DIR$/iconfont/default/atom.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/default/audit.svg" beforeDir="false" afterPath="$PROJECT_DIR$/iconfont/default/audit.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/default/boxes.svg" beforeDir="false" afterPath="$PROJECT_DIR$/iconfont/default/boxes.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/default/calculator.svg" beforeDir="false" afterPath="$PROJECT_DIR$/iconfont/default/calculator.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/default/calendar-check.svg" beforeDir="false" afterPath="$PROJECT_DIR$/iconfont/default/calendar-check.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/default/calendar.svg" beforeDir="false" afterPath="$PROJECT_DIR$/iconfont/default/calendar.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/default/cg.svg" beforeDir="false" afterPath="$PROJECT_DIR$/iconfont/default/cg.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/default/cogs.svg" beforeDir="false" afterPath="$PROJECT_DIR$/iconfont/default/cogs.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/default/coins.svg" beforeDir="false" afterPath="$PROJECT_DIR$/iconfont/default/coins.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/default/database.svg" beforeDir="false" afterPath="$PROJECT_DIR$/iconfont/default/database.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/default/delete.svg" beforeDir="false" afterPath="$PROJECT_DIR$/iconfont/default/delete.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/default/desktop.svg" beforeDir="false" afterPath="$PROJECT_DIR$/iconfont/default/desktop.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/default/disuse.svg" beforeDir="false" afterPath="$PROJECT_DIR$/iconfont/default/disuse.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/default/dollar.svg" beforeDir="false" afterPath="$PROJECT_DIR$/iconfont/default/dollar.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/default/floor.svg" beforeDir="false" afterPath="$PROJECT_DIR$/iconfont/default/floor.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/default/hockey.svg" beforeDir="false" afterPath="$PROJECT_DIR$/iconfont/default/hockey.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/default/home.svg" beforeDir="false" afterPath="$PROJECT_DIR$/iconfont/default/home.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/default/house.svg" beforeDir="false" afterPath="$PROJECT_DIR$/iconfont/default/house.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/default/integral.svg" beforeDir="false" afterPath="$PROJECT_DIR$/iconfont/default/integral.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/default/lock.svg" beforeDir="false" afterPath="$PROJECT_DIR$/iconfont/default/lock.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/default/map.svg" beforeDir="false" afterPath="$PROJECT_DIR$/iconfont/default/map.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/default/medical.svg" beforeDir="false" afterPath="$PROJECT_DIR$/iconfont/default/medical.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/default/money.svg" beforeDir="false" afterPath="$PROJECT_DIR$/iconfont/default/money.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/default/order.svg" beforeDir="false" afterPath="$PROJECT_DIR$/iconfont/default/order.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/default/palette.svg" beforeDir="false" afterPath="$PROJECT_DIR$/iconfont/default/palette.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/default/password.svg" beforeDir="false" afterPath="$PROJECT_DIR$/iconfont/default/password.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/default/phone.svg" beforeDir="false" afterPath="$PROJECT_DIR$/iconfont/default/phone.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/default/price.svg" beforeDir="false" afterPath="$PROJECT_DIR$/iconfont/default/price.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/default/product.svg" beforeDir="false" afterPath="$PROJECT_DIR$/iconfont/default/product.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/default/qq.svg" beforeDir="false" afterPath="$PROJECT_DIR$/iconfont/default/qq.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/default/return.svg" beforeDir="false" afterPath="$PROJECT_DIR$/iconfont/default/return.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/default/rise.svg" beforeDir="false" afterPath="$PROJECT_DIR$/iconfont/default/rise.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/default/sort-down.svg" beforeDir="false" afterPath="$PROJECT_DIR$/iconfont/default/sort-down.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/default/stop.svg" beforeDir="false" afterPath="$PROJECT_DIR$/iconfont/default/stop.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/default/store.svg" beforeDir="false" afterPath="$PROJECT_DIR$/iconfont/default/store.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/default/succeed.svg" beforeDir="false" afterPath="$PROJECT_DIR$/iconfont/default/succeed.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/default/supplier.svg" beforeDir="false" afterPath="$PROJECT_DIR$/iconfont/default/supplier.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/default/swimmer.svg" beforeDir="false" afterPath="$PROJECT_DIR$/iconfont/default/swimmer.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/default/tachometer.svg" beforeDir="false" afterPath="$PROJECT_DIR$/iconfont/default/tachometer.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/default/tags.svg" beforeDir="false" afterPath="$PROJECT_DIR$/iconfont/default/tags.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/default/tasks.svg" beforeDir="false" afterPath="$PROJECT_DIR$/iconfont/default/tasks.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/default/times.svg" beforeDir="false" afterPath="$PROJECT_DIR$/iconfont/default/times.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/default/trade.svg" beforeDir="false" afterPath="$PROJECT_DIR$/iconfont/default/trade.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/default/trash.svg" beforeDir="false" afterPath="$PROJECT_DIR$/iconfont/default/trash.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/default/truck-moving.svg" beforeDir="false" afterPath="$PROJECT_DIR$/iconfont/default/truck-moving.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/default/truck.svg" beforeDir="false" afterPath="$PROJECT_DIR$/iconfont/default/truck.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/default/upload.svg" beforeDir="false" afterPath="$PROJECT_DIR$/iconfont/default/upload.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/default/user-clock.svg" beforeDir="false" afterPath="$PROJECT_DIR$/iconfont/default/user-clock.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/default/user-tie.svg" beforeDir="false" afterPath="$PROJECT_DIR$/iconfont/default/user-tie.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/default/user.svg" beforeDir="false" afterPath="$PROJECT_DIR$/iconfont/default/user.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/default/users.svg" beforeDir="false" afterPath="$PROJECT_DIR$/iconfont/default/users.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/default/wallet.svg" beforeDir="false" afterPath="$PROJECT_DIR$/iconfont/default/wallet.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/default/weight.svg" beforeDir="false" afterPath="$PROJECT_DIR$/iconfont/default/weight.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/default/wx.svg" beforeDir="false" afterPath="$PROJECT_DIR$/iconfont/default/wx.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/hover/atom.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/hover/audit.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/hover/boxes.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/hover/calculator.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/hover/calendar-check.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/hover/calendar.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/hover/cg.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/hover/cogs.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/hover/coins.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/hover/database.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/hover/delete.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/hover/desktop.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/hover/disuse.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/hover/dollar.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/hover/floor.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/hover/hockey.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/hover/home.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/hover/house.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/hover/integral.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/hover/lock.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/hover/map.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/hover/medical.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/hover/money.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/hover/order.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/hover/palette.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/hover/password.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/hover/phone.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/hover/price.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/hover/product.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/hover/qq.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/hover/return.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/hover/rise.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/hover/sort-down.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/hover/stop.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/hover/store.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/hover/succeed.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/hover/supplier.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/hover/swimmer.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/hover/tachometer.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/hover/tags.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/hover/tasks.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/hover/times.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/hover/trade.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/hover/trash.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/hover/truck-moving.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/hover/truck.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/hover/upload.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/hover/user-clock.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/hover/user-tie.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/hover/user.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/hover/users.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/hover/wallet.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/hover/weight.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconfont/hover/wx.svg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,8 +207,20 @@
       <workItem from="1631775702968" duration="1213000" />
       <workItem from="1635479903668" duration="3288000" />
       <workItem from="1635560072523" duration="569000" />
-      <workItem from="1641802082861" duration="1598000" />
+      <workItem from="1641802082861" duration="2216000" />
+      <workItem from="1647917337784" duration="235000" />
+      <workItem from="1647919197999" duration="969000" />
+      <workItem from="1647932822620" duration="158000" />
+      <workItem from="1647933105920" duration="1874000" />
     </task>
+    <task id="LOCAL-00001" summary="mod 美化文档">
+      <created>1641803829577</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1641803829577</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,5 +237,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="mod 美化文档" />
+    <option name="LAST_COMMIT_MESSAGE" value="mod 美化文档" />
   </component>
 </project>
